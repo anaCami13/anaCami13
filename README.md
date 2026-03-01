@@ -5,7 +5,7 @@ I build web/mobile solutions end-to-end: frontend, backend, databases, and deplo
 
 ## 🔭 What I’m working on
 - Full-stack projects using Angular, Laravel/PHP, and Python (Django/Flask)
-- API integrations (e.g., Stripe) and relational databases (SQL Server, MariaDB/MySQL, PostgreSQL)
+- Integrations with **Stripe API (subscriptions + webhooks)** and relational databases (SQL Server, MariaDB/MySQL, PostgreSQL)
 - DevOps basics with Docker, Jenkins, and Kubernetes
 
 ## 🌱 Currently learning
